@@ -1,5 +1,8 @@
 # COGS118B Project template
+
 This is your group repo for your final project for COGS118B
+
+The Final Project file is in "FinalProject_groupFIFA.ipynb".
 
 This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the three files above on due dates with the required information, the rest is up to you all.
 
