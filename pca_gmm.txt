@@ -1,0 +1,18 @@
+[{'n_components': 2}, {'covariance_type': 'full', 'init_params': 'kmeans', 'n_components': 4, 'tol': 0.001}] 0.40768003809020337 0.4481985184720046
+[{'n_components': 2}, {'covariance_type': 'full', 'init_params': 'random', 'n_components': 4, 'tol': 0.001}] 0.38459396576244603 0.3525226976895483
+[{'n_components': 2}, {'covariance_type': 'diag', 'init_params': 'kmeans', 'n_components': 4, 'tol': 0.001}] 0.4059099585152809 0.44154345173222004
+[{'n_components': 2}, {'covariance_type': 'diag', 'init_params': 'random', 'n_components': 4, 'tol': 0.001}] 0.3898061918894917 0.36806902174980455
+[{'n_components': 3}, {'covariance_type': 'full', 'init_params': 'kmeans', 'n_components': 4, 'tol': 0.001}] 0.4170191328571051 0.4143398109110443
+[{'n_components': 3}, {'covariance_type': 'full', 'init_params': 'random', 'n_components': 4, 'tol': 0.001}] 0.19644518586565538 0.34047069209592107
+[{'n_components': 3}, {'covariance_type': 'diag', 'init_params': 'kmeans', 'n_components': 4, 'tol': 0.001}] 0.33170998824620945 0.43047969065030833
+[{'n_components': 3}, {'covariance_type': 'diag', 'init_params': 'random', 'n_components': 4, 'tol': 0.001}] 0.2675455099172331 0.1946784899560881
+[{'n_components': 4}, {'covariance_type': 'full', 'init_params': 'kmeans', 'n_components': 4, 'tol': 0.001}] 0.44082197394425743 0.37973464067371326
+[{'n_components': 4}, {'covariance_type': 'full', 'init_params': 'random', 'n_components': 4, 'tol': 0.001}] 0.4182253110096423 0.360297126378554
+[{'n_components': 4}, {'covariance_type': 'diag', 'init_params': 'kmeans', 'n_components': 4, 'tol': 0.001}] 0.3546428239670221 0.40611095088092797
+[{'n_components': 4}, {'covariance_type': 'diag', 'init_params': 'random', 'n_components': 4, 'tol': 0.001}] 0.1486755590099721 0.0035599615187118763
+[{'n_components': 5}, {'covariance_type': 'full', 'init_params': 'kmeans', 'n_components': 4, 'tol': 0.001}] 0.44750391871272055 0.3566241868287691
+[{'n_components': 5}, {'covariance_type': 'full', 'init_params': 'random', 'n_components': 4, 'tol': 0.001}] 0.4187582101697737 0.37072556802397294
+[{'n_components': 5}, {'covariance_type': 'diag', 'init_params': 'kmeans', 'n_components': 4, 'tol': 0.001}] 0.35875041158412774 0.3860376406855292
+[{'n_components': 5}, {'covariance_type': 'diag', 'init_params': 'random', 'n_components': 4, 'tol': 0.001}] 0.12446438152898402 -0.04421121048295741
+Best ari Parameters: [{'n_components': 5}, {'covariance_type': 'full', 'init_params': 'kmeans', 'n_components': 4, 'tol': 0.001}] score 0.44750391871272055
+Best ss Parameters : [{'n_components': 2}, {'covariance_type': 'full', 'init_params': 'kmeans', 'n_components': 4, 'tol': 0.001}] score 0.4481985184720046

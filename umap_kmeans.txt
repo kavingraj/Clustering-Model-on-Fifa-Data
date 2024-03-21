@@ -1,0 +1,110 @@
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 2, 'n_neighbors': 5} 0.40791027654712825 0.5189211
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 2, 'n_neighbors': 10} 0.40014294604827605 0.5194087
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 2, 'n_neighbors': 15} 0.4027154664024374 0.51743805
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 3, 'n_neighbors': 5} 0.39156840327985903 0.50320166
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 3, 'n_neighbors': 10} 0.3982641911139968 0.5092721
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 3, 'n_neighbors': 15} 0.3993154279896226 0.5102724
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 4, 'n_neighbors': 5} 0.39339821925023244 0.49552757
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 4, 'n_neighbors': 10} 0.39733014413975304 0.5065249
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 4, 'n_neighbors': 15} 0.39866933652924336 0.5108821
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 5, 'n_neighbors': 5} 0.3949763598776074 0.49402228
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 5, 'n_neighbors': 10} 0.3964039923321715 0.5080403
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.1, 'n_components': 5, 'n_neighbors': 15} 0.3990567751230434 0.5090288
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 2, 'n_neighbors': 5} 0.3945082519813165 0.45369944
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 2, 'n_neighbors': 10} 0.39388316974161813 0.47840074
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 2, 'n_neighbors': 15} 0.39493858937750576 0.47760922
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 3, 'n_neighbors': 5} 0.3876314839541186 0.43090206
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 3, 'n_neighbors': 10} 0.38857047211031515 0.4486439
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 3, 'n_neighbors': 15} 0.3895437947314419 0.45879987
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 4, 'n_neighbors': 5} 0.389864239456863 0.42112705
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 4, 'n_neighbors': 10} 0.3878590959176221 0.44285542
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 4, 'n_neighbors': 15} 0.38497179030882084 0.4552752
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 5, 'n_neighbors': 5} 0.3878108498157237 0.41219205
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 5, 'n_neighbors': 10} 0.38905882170747486 0.44094217
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 0.5, 'n_components': 5, 'n_neighbors': 15} 0.3890517544210648 0.4505872
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 2, 'n_neighbors': 5} 0.3672004150841511 0.41477814
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 2, 'n_neighbors': 10} 0.390014225768894 0.43727607
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 2, 'n_neighbors': 15} 0.3923335414602105 0.4409097
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 3, 'n_neighbors': 5} 0.3811693733970526 0.359674
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 3, 'n_neighbors': 10} 0.38265502348843766 0.39862004
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 3, 'n_neighbors': 15} 0.38384909650288435 0.40759933
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 4, 'n_neighbors': 5} 0.3927849327176725 0.3423141
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 4, 'n_neighbors': 10} 0.3828529365401115 0.37565094
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 4, 'n_neighbors': 15} 0.37772830416989445 0.39706704
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 5, 'n_neighbors': 5} 0.3918298734681646 0.3194823
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 5, 'n_neighbors': 10} 0.3859822754711795 0.363638
+c:\Users\akhil\anaconda3\envs\COGS118B_WI24\lib\site-packages\sklearn\cluster\_kmeans.py:1416: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
+{'min_dist': 1, 'n_components': 5, 'n_neighbors': 15} 0.3797622056283912 0.37919465
+Best ari Parameters: {'min_dist': 0.1, 'n_components': 2, 'n_neighbors': 5} score 0.40791027654712825
+Best ss Parameters : {'min_dist': 0.1, 'n_components': 2, 'n_neighbors': 5} score 0.4041456776677009
